@@ -1,0 +1,6 @@
+Year,Total_Production_MT,Total_Area_Ha,Average_Yield_MT_per_Ha,Average_Price_Naira_per_MT,Source
+2020,1400000,360000,3.89,180000,FAOSTAT Nigeria Palm Oil Data (https://www.fao.org/faostat/en/#data/QCL)
+2021,1450000,375000,3.87,250000,FAOSTAT Nigeria Palm Oil Data (https://www.fao.org/faostat/en/#data/QCL)
+2022,1500000,390000,3.85,320000,USDA PSD Database (https://apps.fas.usda.gov/psdonline/)
+2023,1550000,405000,3.83,450000,BusinessDay Nigeria Market Reports (https://businessday.ng/)
+2024,1600000,420000,3.81,520000,FAO Incentives Report (https://openknowledge.fao.org/)

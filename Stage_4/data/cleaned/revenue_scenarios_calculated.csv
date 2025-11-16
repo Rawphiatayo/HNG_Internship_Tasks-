@@ -1,0 +1,4 @@
+Scenario,FFB_Yield_MT_per_Ha,Oil_Extraction_Rate,CPO_Price_Naira_per_MT,Kernel_Yield_Rate,Kernel_Price_Naira_per_MT,CPO_MT_per_Ha,CPO_Revenue_Naira,Kernel_MT_per_Ha,Kernel_Revenue_Naira,Total_Revenue_per_Ha
+Conservative,16.0,0.19,480000,0.06,180000,3.04,1459200.0,0.96,172800.0,1632000.0
+Base,18.5,0.21,520000,0.065,200000,3.885,2020200.0,1.2025000000000001,240500.00000000003,2260700.0
+Optimistic,21.0,0.23,560000,0.07,220000,4.83,2704800.0,1.4700000000000002,323400.00000000006,3028200.0

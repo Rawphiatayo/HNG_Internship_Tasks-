@@ -1,0 +1,13 @@
+Cost_Category,Conservative_Naira_per_Ha,Base_Naira_per_Ha,Optimistic_Naira_per_Ha,Cost_Type
+Land_Acquisition,800000,700000,600000,Capital
+Land_Clearing,250000,220000,200000,Capital
+Seedlings,180000,160000,140000,Capital
+Planting,120000,100000,90000,Capital
+Fertilizers_Annual,280000,320000,350000,Operating
+Pesticides_Herbicides,85000,95000,100000,Operating
+Labor_Maintenance,420000,480000,520000,Operating
+Labor_Harvesting,350000,400000,450000,Operating
+Equipment_Depreciation,95000,110000,120000,Operating
+Transportation,180000,200000,220000,Operating
+Processing_Cost,220000,250000,280000,Operating
+Administrative_Overhead,150000,180000,200000,Operating

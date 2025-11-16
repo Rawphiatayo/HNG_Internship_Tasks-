@@ -1,0 +1,4 @@
+State,Production_Share_%,Est_Production_Tons_2024,Area_Ha,Yield_CPO_t_per_ha,Rainfall_mm,Temp_C,Humidity_%,Sunshine_Hours_Day,Infrastructure_Rating,Land_Cost_NGN_Per_Ha,Labor_Cost_Multiplier,Suitability_Score,Annual_Rainfall_mm
+Edo,12,168000,320000,5.0,2200,25.7,75,5.5,Excellent,1500000,1.0,9.5,2200
+Cross River,11,154000,340000,4.7,2800,26.2,80,5.0,Good,1200000,0.95,9.0,2800
+Ondo,11,154000,320000,4.5,2000,25.9,72,6.0,Good,1300000,0.98,8.5,2000

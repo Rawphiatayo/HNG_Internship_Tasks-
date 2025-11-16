@@ -1,0 +1,28 @@
+{
+  "sources": [
+    {
+      "name": "FAOSTAT",
+      "url": "https://www.fao.org/faostat/en/#data/QCL",
+      "description": "Palm oil production, area, and yield data for Nigeria",
+      "date_accessed": "2025-11-09"
+    },
+    {
+      "name": "Okomu Oil PLC",
+      "url": "https://okomugroup.com/",
+      "description": "Industry benchmarks for yield and costs",
+      "date_accessed": "2025-11-09"
+    },
+    {
+      "name": "Presco PLC",
+      "url": "https://presco-plc.com/",
+      "description": "Industry benchmarks and financial data",
+      "date_accessed": "2025-11-09"
+    },
+    {
+      "name": "World Bank Climate Portal",
+      "url": "https://climateknowledgeportal.worldbank.org/",
+      "description": "Climate data for Nigerian states",
+      "date_accessed": "2025-11-09"
+    }
+  ]
+}

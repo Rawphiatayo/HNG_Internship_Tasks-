@@ -1,0 +1,4 @@
+Scenario,Capital_Amortized,Operating_Annual,Total_Annual_per_Ha
+Conservative,54000.0,1780000.0,1834000.0
+Base,47200.0,2035000.0,2082200.0
+Optimistic,41200.0,2240000.0,2281200.0

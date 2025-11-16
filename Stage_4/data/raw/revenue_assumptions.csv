@@ -1,0 +1,4 @@
+Scenario,FFB_Yield_MT_per_Ha,Oil_Extraction_Rate,CPO_Price_Naira_per_MT,Kernel_Yield_Rate,Kernel_Price_Naira_per_MT
+Conservative,16.0,0.19,480000,0.06,180000
+Base,18.5,0.21,520000,0.065,200000
+Optimistic,21.0,0.23,560000,0.07,220000
