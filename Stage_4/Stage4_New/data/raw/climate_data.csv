@@ -1,7 +1,0 @@
-State,Annual_Rainfall_mm,Avg_Temperature_C,Humidity_Percent,Suitable_Months,Source
-Edo,2400,26.5,80,12,NIMET Nigeria Climate Data (https://www.nimet.gov.ng/)
-Cross River,2800,26.8,82,12,World Bank Climate Portal (https://climateknowledgeportal.worldbank.org/)
-Ondo,2200,26.2,78,11,FAO Soils Portal (http://www.fao.org/soils-portal/en/)
-Akwa Ibom,2600,26.7,81,12,NIMET 2023 Annual Summary (https://www.nimet.gov.ng/)
-Delta,2300,26.4,79,11,World Bank CKP 2023 (https://climateknowledgeportal.worldbank.org/)
-Imo,2400,26.3,80,11,FAO Soils and Agroecological Zones

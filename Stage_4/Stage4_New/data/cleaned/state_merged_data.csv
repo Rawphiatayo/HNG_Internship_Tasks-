@@ -1,7 +1,0 @@
-State,Area_Ha,Production_MT,Yield_MT_per_Ha,Number_of_Mills,Average_Rainfall_mm,Land_Cost_Naira_per_Ha,Labor_Availability,Infrastructure_Score,Annual_Rainfall_mm,Avg_Temperature_C,Humidity_Percent,Suitable_Months
-Edo,85000,340000,4,12,2400,800000,High,8,2400,26.5,80,12
-Cross River,75000,285000,3.8,10,2800,700000,High,7,2800,26.8,82,12
-Ondo,55000,209000,3.8,8,2200,750000,Medium,7,2200,26.2,78,11
-Akwa Ibom,45000,171000,3.8,6,2600,850000,High,6,2600,26.7,81,12
-Delta,40000,152000,3.8,5,2300,900000,Medium,6,2300,26.4,79,11
-Imo,35000,133000,3.8,4,2400,950000,Medium,5,2400,26.3,80,11

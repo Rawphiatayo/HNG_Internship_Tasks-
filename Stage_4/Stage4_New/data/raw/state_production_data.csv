@@ -1,7 +1,0 @@
-State,Area_Ha,Production_MT,Yield_MT_per_Ha,Number_of_Mills,Average_Rainfall_mm,Land_Cost_Naira_per_Ha,Labor_Availability,Infrastructure_Score,Source
-Edo,85000,340000,4.0,12,2400,800000,High,8,PIND Oil Palm Cluster Mapping (https://pindfoundation.org/)
-Cross River,75000,285000,3.8,10,2800,700000,High,7,NIFOR Research Reports (https://nifor.gov.ng/)
-Ondo,55000,209000,3.8,8,2200,750000,Medium,7,PropertyPro Nigeria Land Listings (https://www.propertypro.ng/)
-Akwa Ibom,45000,171000,3.8,6,2600,850000,High,6,NIFOR / State Agric Data (https://nifor.gov.ng/)
-Delta,40000,152000,3.8,5,2300,900000,Medium,6,FAO Incentives Report (https://openknowledge.fao.org/)
-Imo,35000,133000,3.8,4,2400,950000,Medium,5,Analyst proxy using PIND + NIFOR data
